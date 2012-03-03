@@ -44,3 +44,5 @@ The motivation behind this is so you can clone the repository down, have ruby in
 
 Some niceties and defines an implementation to swap out different data persistance strategies.  Currently there are 2 supported data persistance strategies: Mince (MongoDB), and HashyDB (in memory hash). If using this gem, all you need to do in order to change the data persistence strategy is to implement the methods outlined by this gem.  Check out the [Mince Data Store](https://github.com/asynchrony/mince/blob/master/lib/mince/data_store.rb) and the [HashyDB Data Store](https://github.com/asynchrony/HashyDB/blob/master/lib/hashy_db/data_store.rb) for a list of methods to implement.
 
+[@github](https://github.com/asynchrony/mince_data_model)
+[@rubygems](http://rubygems.org/gems/mince_data_model)
