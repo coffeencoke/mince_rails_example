@@ -37,7 +37,7 @@ Provides an interface for storing and retreiving information in a Hash in memory
 
 The motivation behind this is so you can clone the repository down, have ruby installed, run bundle install and be able to run your tests and develop without being dependent on any other setup.
 
-[@github](https://github.com/asynchrony/HashyDB)
+[@github](https://github.com/asynchrony/hashy_db)
 [@rubygems](https://rubygems.org/gems/hashy_db)
 
 # Mince Data Model
